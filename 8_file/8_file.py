@@ -1,4 +1,4 @@
-file=open("test.txt","w+")
+file=open("test.txt","w")
 file.write("Hey gentlman ")
 file=open("test.txt","r")
 print(file.read())
